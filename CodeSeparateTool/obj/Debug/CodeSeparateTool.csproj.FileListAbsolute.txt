@@ -1,0 +1,11 @@
+c:\users\mq\documents\visual studio 2013\Projects\CodeSeparateTool\CodeSeparateTool\bin\Debug\CodeSeparateTool.exe.config
+c:\users\mq\documents\visual studio 2013\Projects\CodeSeparateTool\CodeSeparateTool\bin\Debug\CodeSeparateTool.exe
+c:\users\mq\documents\visual studio 2013\Projects\CodeSeparateTool\CodeSeparateTool\bin\Debug\CodeSeparateTool.pdb
+c:\users\mq\documents\visual studio 2013\Projects\CodeSeparateTool\CodeSeparateTool\obj\Debug\CodeSeparateTool.exe
+c:\users\mq\documents\visual studio 2013\Projects\CodeSeparateTool\CodeSeparateTool\obj\Debug\CodeSeparateTool.pdb
+E:\Document\常用工具源代码\代码分离\CodeSeparateTool\bin\Debug\CodeSeparateTool.exe.config
+E:\Document\常用工具源代码\代码分离\CodeSeparateTool\obj\Debug\CodeSeparateTool.exe
+E:\Document\常用工具源代码\代码分离\CodeSeparateTool\obj\Debug\CodeSeparateTool.pdb
+E:\Document\常用工具源代码\代码分离\CodeSeparateTool\bin\Debug\CodeSeparateTool.exe
+E:\Document\常用工具源代码\代码分离\CodeSeparateTool\bin\Debug\CodeSeparateTool.pdb
+E:\Document\常用工具源代码\代码分离\CodeSeparateTool\obj\Debug\CodeSeparateTool.csprojResolveAssemblyReference.cache
